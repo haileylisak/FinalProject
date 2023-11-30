@@ -1,6 +1,6 @@
 # FinalProject
 
-Hi! Our team name is Lailey! Our team members are Liza Dukhon (lid92@pitt.edu) and Haliey Lisak (hwl11@pitt.edu).
+Hi! Our team name is Lailey! Our team members are Liza Dukhon (lid92@pitt.edu) and Haliey Lisak (hwl11@pitt.edu). We are group #2.
 We used 3 datasets in our project:
 1) Arrests https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
    Arrest data contains information on people taken into custody by City of Pittsburgh police officers. More serious crimes such as felony offenses are more likely to result    in an arrest. 
